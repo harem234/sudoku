@@ -3,6 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# IDE
+# IDE vscode, pycharm
 .idea/
 .vscode/
